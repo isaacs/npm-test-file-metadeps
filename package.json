@@ -1,0 +1,10 @@
+{
+  "name": "file-metadeps",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "bash test.sh"
+  },
+  "dependencies": {
+    "once": "file:once"
+  }
+}
